@@ -13,7 +13,7 @@ I am pursuing MSc in Enterprise IT Management at the University of Essex. The pr
 
 ## Professional Experience
 
-I have experience working as an ICT at various United Nations agencies ([WFP](https://www.wfp.org/countries/mozambique), [UNDP](https://www.undp.org/pt/mozambique), [UNOCHA](https://www.unocha.org/mozambique) and working currently at [UNICEF](https://www.unicef.org/mozambique/en), where I provided technical support and training to staff, implemented and maintained IT infrastructure, and collaborated with cross-functional teams to identify and address ICT-related challenges.
+I have experience working as an ICT at various United Nations agencies ([WFP](https://www.wfp.org/countries/mozambique), [UNDP](https://www.undp.org/pt/mozambique), [UNOCHA](https://www.unocha.org/mozambique)) and working currently at [UNICEF](https://www.unicef.org/mozambique/en), where I provided technical support and training to staff, implemented and maintained IT infrastructure, and collaborated with cross-functional teams to identify and address ICT-related challenges.
 
 ## Interests
 
