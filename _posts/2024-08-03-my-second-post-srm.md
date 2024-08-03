@@ -2,7 +2,7 @@
 layout: post
 title: Security and Risk Management
 subtitle: 
-categories: SRM
+categories: Modules
 tags: [Qualitative and Quantitative Risks, RMP, PASTA]
 ---
 
@@ -14,4 +14,3 @@ tags: [Qualitative and Quantitative Risks, RMP, PASTA]
 - Demonstrate how to create quantitative risk models.
 - Discuss and design DR solution.
   
-![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
