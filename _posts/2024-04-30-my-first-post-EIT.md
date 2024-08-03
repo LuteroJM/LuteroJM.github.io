@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Launching into Enterprise IT Management
-subtitle: EIT
+subtitle: 
 categories: Modules
 tags: [Industry X.0, Automation, Outsourcing, Cloud, IoT]
 ---
