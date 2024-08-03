@@ -43,9 +43,7 @@ author: Lutero Malunga
 copyright: "Unpublished Work (cleft) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello there,
-I'm Lutero, a student at the University of Essex and I'm currently completing my MSc Enterprise IT Management.
-As part of my studies, I was tasked to create an e-Portfolio. I am an Information and Communications Technology (ICT) professional driven by a deep sense of purpose to make a positive impact on the lives of vulnerable populations affected by crises. I find fulfillment in leveraging Telecommunications and ICT solutions to support program implementation and deliver life-saving services
+  
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
